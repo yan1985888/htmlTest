@@ -1,0 +1,36 @@
+
+html {
+     background-color: #00539F;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 30px 30px 10px 20px;
+  border: 10px solid black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+
+}
+/*h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+h2{
+    color: saddlebrown
+}
+#dfs{
+    color: darkmagenta
+}
+.cs{
+    color: slateblue
+
+}*/
